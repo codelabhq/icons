@@ -19,6 +19,7 @@
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/twitch-icon.svg" width="32" height="32"> | Twitch | [twitch-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/twitch-icon.svg) |
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/twitter-official.svg" width="32" height="32"> | Twitter / X | [twitter-official.svg](https://raw.githubusercontent.com/codelabhq/icons/main/twitter-official.svg) |
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/whatsapp-icon.svg" width="32" height="32"> | WhatsApp | [whatsapp-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/whatsapp-icon.svg) |
+| <img src="https://raw.githubusercontent.com/codelabhq/icons/main/meta-icon.svg" width="32" height="32"> | Meta | [meta-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/meta-icon.svg) |
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/youtube-icon.svg" width="32" height="32"> | YouTube | [youtube-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/youtube-icon.svg) |
 
 ## Использование
