@@ -14,6 +14,7 @@
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/global-icon.svg" width="32" height="32"> | Global | [global-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/global-icon.svg) |
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/website-icon.svg" width="32" height="32"> | Website | [website-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/website-icon.svg) |
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/google-icon.svg" width="32" height="32"> | Google | [google-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/google-icon.svg) |
+| <img src="https://raw.githubusercontent.com/codelabhq/icons/main/openai-icon.svg" width="32" height="32"> | Openai | [openai-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/openai-icon.svg) |
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/steampowered-icon.svg" width="32" height="32"> | Steam | [steampowered-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/steampowered-icon.svg) |
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/telegram-icon.svg" width="32" height="32"> | Telegram | [telegram-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/telegram-icon.svg) |
 | <img src="https://raw.githubusercontent.com/codelabhq/icons/main/torrent-icon.svg" width="32" height="32"> | Torrent | [torrent-icon.svg](https://raw.githubusercontent.com/codelabhq/icons/main/torrent-icon.svg) |
